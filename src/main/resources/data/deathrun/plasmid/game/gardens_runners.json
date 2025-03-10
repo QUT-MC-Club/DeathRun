@@ -1,5 +1,6 @@
 {
     "type": "deathrun:deathrun",
+    "icon": "minecraft:trident",
     "runners_only": true,
     "map": {
         "time": 13000,
